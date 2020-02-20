@@ -1,4 +1,4 @@
-MusicSearchApp
+## MusicSearchApp
 App to search artists and songs from happi.dev music API. App is built with parcel.js
 
 ## Available Scripts
